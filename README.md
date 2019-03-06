@@ -61,7 +61,7 @@ htxcomp (github/vjcitn), TxRegInfra
 
 ## Time outline
 
-An example for a 45-minute workshop:
+Approximate timings for sections of workshop
 
 | Activity                     | Time |
 |------------------------------|------|
